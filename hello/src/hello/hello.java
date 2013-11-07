@@ -10,6 +10,8 @@ public class hello {
 		
 		// això serà un commit des del eclipse
 		System.out.println("commit des del eclipse");
+		
+		System.out.println("TAorno a editar per provar de fer fetch, ja que he fet canvis amb això");
 	}
 
 }
